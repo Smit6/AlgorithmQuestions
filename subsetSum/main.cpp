@@ -1,3 +1,9 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : Given a set of non-negative integers, and a value sum, determine if
+  there is a subset of the given set with sum equal to given sum.
+ */
 #include <iostream>
 
 using std::cout;

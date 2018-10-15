@@ -1,3 +1,12 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : a set of n items, where item i has weight w[i] and value v[i], and
+    a knapsack with capacity W.
+    suppose to pick a "few" elements from the n elements such that their weight
+    is less than or equal to W but their summed value is maximized
+ */
+
 #include <iostream>
 
 using std::cout;

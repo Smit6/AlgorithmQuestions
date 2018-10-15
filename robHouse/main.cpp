@@ -1,9 +1,25 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : given a list of non-negative integers representing the amount of
+  money of each house, determine the maximum amount of money you can rob
+  tonight without alerting the police.
+  can rob : 2 , 4
+  can rob : 1, 3, 5
+ */
+
 #include <iostream>
 
 using std::cout;
 using std::endl;
 using std::max;
 
+/* function name : rob_it
+ * paramenter : array size, array
+ * brief : gives us the maximum number of money we can stole without alerting
+   police.
+ * returns max money.
+ */
 int rob_it(int n, int* h) {
   int s[n];
   int temp = 0;

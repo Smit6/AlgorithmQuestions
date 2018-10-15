@@ -1,3 +1,9 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : Given two strings ‘X’ and ‘Y’, find the length of the longest common
+  substring.
+ */
 #include <iostream>
 
 using std::endl;

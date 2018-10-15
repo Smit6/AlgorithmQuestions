@@ -1,3 +1,8 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : solve longest increasing subSeq
+ */
 #include <iostream>
 
 using std::cout;

@@ -1,3 +1,13 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : The cost of a stock on each day is given in an array, find the max
+ profit that you can make by buying and selling in those days. For example, if
+ the given array is {7, 1, 5, 3, 7, 4}, the maximum profit can
+ earned by buying on day 0, selling on day 3. Again buy on day 4 and sell on
+ day 6. If the given array of prices is sorted in decreasing order, then profit
+ cannot be earned at all.
+ */
 #include <iostream>
 
 using std::cout;

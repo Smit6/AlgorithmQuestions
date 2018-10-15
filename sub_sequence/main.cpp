@@ -1,3 +1,10 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” of length 3.
+  LCS for input Sequences “AGGTAB” and “GXTXAYB” is “GTAB” of length 4.
+ */
+
 #include <iostream>
 
 using std::endl;

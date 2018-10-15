@@ -1,3 +1,9 @@
+/* file_name : main.cpp
+ * author_name : Smitkumar Contractor
+ * contact : smitcontractor@gmail.com
+ * brief : Given a boolean 2D matrix, find the number of islands. A group of
+  connected 1s forms an island. For example, the below matrix contains 5 islands
+ */
 #include <iostream>
 
 using std::cout;
