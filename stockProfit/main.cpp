@@ -16,11 +16,15 @@ using std::max;
 using std::min;
 
 int profit(int n, int* day) {
+  // to store max profit
   int profit[n];
+  // manitains the min stock price
   int mini = day[0];
   profit[0] = 0;
   for (int i = 1; i < n; i++) {
     mini = min(mini, day[i]);
+    // max between prev day profit and the profit can be earned by selling
+    // stocks on current day
     profit[i] = max(profit[i - 1], day[i] - mini);
   }
   return profit[n - 1];
